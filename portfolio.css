@@ -223,7 +223,12 @@ section .projects .project-details span {
     line-height: 1.6;
 }
 
-
+#more-proj{
+    font-size: 30px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
 
 
 section .contact-form{
